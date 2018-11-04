@@ -1,6 +1,7 @@
 ## Anna
 
 ```markdown
-ζ whoami
+> whoami
 programmer
+
 
