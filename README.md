@@ -1,7 +1,6 @@
 ## Anna
 
-```markdown
-> whoami
+```console
+$ whoami
 programmer
-
-
+```
